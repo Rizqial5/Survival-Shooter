@@ -786,4 +786,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Level_01.unity
-  playerPath: D:/Games/Project Unity/Survival Shooter/Build Games/Survival Shooter.exe
+  playerPath: D:/Games/Project Unity/Revisi/Survival shooter/Survival Shooter.exe
